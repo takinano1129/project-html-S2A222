@@ -1,0 +1,16 @@
+table{
+  border-collapse: separate;
+  font-size: 1.2rem;
+  border: 1px #000000 solid;
+
+}
+tr :first-child {
+  background-color: #ededed;
+}
+th {
+    border: 1px #000000 solid;
+    padding: 10px;
+}
+td{
+  padding: 10px;
+}
